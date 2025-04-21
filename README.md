@@ -6,8 +6,9 @@ A simple word Command line interface tool that counts the number of words in a .
 
 ```bash 
 node wordcount.js wordcount <filepath>
+```
 
-Features
+## Features
 	•	Counts words in any text file
 	•	Simple and fast
 	•	Built using Node.js and Commander.js
